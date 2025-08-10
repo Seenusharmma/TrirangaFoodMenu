@@ -19,7 +19,7 @@ export const foodData = [
   },
   {
     id: 3,
-    name: "Panner Masala",
+    name: "Paneer Masala",
     category: "Indian Veg",
     price: "₹120.00",
     image:
@@ -27,7 +27,7 @@ export const foodData = [
   },
   {
     id: 4,
-    name: "Panner Punjabi",
+    name: "Paneer Punjabi",
     category: "Indian Veg",
     price: "₹140.00",
     image:
@@ -35,7 +35,7 @@ export const foodData = [
   },
   {
     id: 5,
-    name: "Panner Butter Masala",
+    name: "Paneer Butter Masala",
     category: "Indian Veg",
     price: "₹130.00",
     image: "https://fforflavour.com/wp-content/uploads/2018/08/IMG_5518.jpg",
